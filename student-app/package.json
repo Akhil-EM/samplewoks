@@ -1,0 +1,17 @@
+{
+  "name": "student_app",
+  "version": "1.0.0",
+  "description": "app for testing mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akhil em",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cors": "^2.8.5",
+    "ejs": "^2.7.2",
+    "express": "^4.17.1"
+  }
+}
